@@ -4,7 +4,7 @@
 
 [project]
 name = "create-qwik-feedstock"
-version = "3.45.2"
+version = "3.45.4"
 description = "Pixi configuration for conda-forge/create-qwik-feedstock"
 authors = ["@conda-forge/create-qwik"]
 channels = ["conda-forge"]
