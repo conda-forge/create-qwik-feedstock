@@ -1,5 +1,5 @@
 context:
-  version: "1.17.2"
+  version: "1.18.0"
 
 package:
   name: create-qwik
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/create-qwik/-/create-qwik-${{ version }}.tgz
-  sha256: e85b6afe321dca0374842bd347fc50ff07d19326572462bfb02673ee7054a173
+  sha256: b5b3db23d9116fc112a895d89e1fccf42c8778754395fe79ce4aba37ba46d4ac
 
 build:
   number: 0
